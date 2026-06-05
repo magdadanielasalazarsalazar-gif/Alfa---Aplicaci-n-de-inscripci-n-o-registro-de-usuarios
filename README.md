@@ -3,4 +3,4 @@ Tematica: Una aplicación de inscripción o registro de usuarios  que implica tr
 
 Lenguaje: Java.
 
-Integrantes: Magda Salazar , Jahilibeth González , Nahomi Rivas , Rubén Molina , Omar lanz.
+Integrantes: Magda Salazar , Jahilibeth González , Nahomi Rivas, Rubén Molina , Omar lanz.
