@@ -1,1 +1,16 @@
+Interfaz gráfica con Swing
+- Lógica de validación
+- Conexión simulada a base de datos (se puede adaptar a una base real)
+- Uso de estructuras de datos: Stack, LinkedList, HashMap, y una lista enlazada personalizada
+
+Estructura general del proyecto
+
+El proyecto se dividirá en varias clases:
+
+1. Usuario: clase que representa un usuario.
+2. NodoUsuario: nodo de la lista enlazada personalizada.
+3. ListaEnlazadaUsuarios: lista enlazada para gestionar usuarios antes de guardarlos en la base.
+4. GestorUsuarios: lógica de negocio, validaciones, y gestión de datos con estructuras.
+5. VentanaRegistro: interfaz gráfica (Swing).
+6. Main: clase principal para correr la aplicación.
 
